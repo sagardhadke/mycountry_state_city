@@ -1,4 +1,3 @@
-/// Handle city data such as: (name, countryCode, stateCode, latitude, longitude)
 class City {
   final String name;
   final String countryCode;
